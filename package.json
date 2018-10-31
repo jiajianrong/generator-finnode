@@ -1,0 +1,14 @@
+{
+  "name": "generator-finnode",
+  "version": "1.0.0",
+  "description": "to create node middleware server",
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^1.0.0"
+  }
+}
