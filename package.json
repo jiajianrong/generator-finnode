@@ -1,7 +1,17 @@
 {
   "name": "generator-finnode",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "to create node middleware server",
+  "authors": [
+    {
+      "name": "jiajianrong",
+      "email": "16446358@qq.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jiajianrong/generator-finnode.git"
+  },
   "files": [
     "app"
   ],
